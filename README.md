@@ -1,6 +1,7 @@
 # Port-Scanner
 This is a Port Scanner created using Python
 
+#### NB: Comment out the Closed port part and Print inorder to see the closed ports
 
 This is how to use it :
 
@@ -22,4 +23,4 @@ Results:
 [+] The Port 1099 is Opened
 [+] The Port 1524 is Opened
 
-# NB: Comment out the Closed port part and Print inorder to see the closed ports
+
