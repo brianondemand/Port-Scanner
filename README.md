@@ -24,3 +24,4 @@ Results:
 [+] The Port 1524 is Opened
 
 
+![Alt text](https://github.com/brianondemand/Port-Scanner/blob/main/pic.png)
